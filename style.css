@@ -1,3 +1,13 @@
 .height-px-a{
 height: 250px;
 }
+.dark-bg{
+    background:  linear-gradient(rgb(18, 18, 18),rgba(18, 18, 18, 0));
+    height: 100%;
+    width: 100%;
+    opacity: 0.33;
+    position: absolute;
+}
+.explore-bg{
+    background-color: rgba(0, 255, 255, 0.274);
+}
