@@ -1,18 +1,6 @@
 .height-px-a{
 height: 250px;
 }
-.dark-bg{
-    
-    /* background:  linear-gradient(rgb(29, 28, 28),rgba(18, 18, 18));
-    background-repeat: no-repeat;
-    background-blend-mode:darken ;
-    background-size: cover;
-    height: 100%;
-    width: 100%; */
-    opacity: 50;
-    /* position: absolute; */
-    background-color: black;
-}
 .explore-bg{
     background-color: rgba(0, 255, 255, 0.274);
 }
